@@ -1,6 +1,6 @@
 # JobEzy
 
-Job Market Analysis Project
+### Job Market Analysis
 
 ![image](https://github.com/rajeshreddy-1707/JobEzy/assets/92686380/3dec5ee6-a817-43ba-b25a-d201db2ff8ec)
 
